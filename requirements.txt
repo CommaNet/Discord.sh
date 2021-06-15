@@ -1,0 +1,7 @@
+In order to use this you will have to install shell.
+Windows is mostly to already have it installed.
+In order to install shell on any linux machine follow these steps:
+Run the following commands in the terminal for the following types of linux.
+Debian/Ubuntu/Mint Linux: $ sudo apt-get install csh
+CentOS/RHEL: # yum install tcsh
+Fedora Linux: $ sudo dnf install tcsh
